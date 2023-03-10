@@ -219,7 +219,11 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+<<<<<<< HEAD
   x86_64-darwin-22
+=======
+  arm64-darwin-22
+>>>>>>> origin/master
 
 DEPENDENCIES
   bootsnap (>= 1.4.4)
@@ -244,4 +248,4 @@ RUBY VERSION
    ruby 3.0.1p64
 
 BUNDLED WITH
-   2.3.26
+   2.4.2
